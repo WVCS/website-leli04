@@ -1,3 +1,20 @@
-body {
+.navbar{
+  background-color: black;
+  text-align: left;
+position: fixed;
+  top: 0;
+  width: 100%;
+  left:0;
+  
+}
+.navbar a{
+  color: white;
+  text-decoration: none;
+  font-size:25px;
 
+}
+.app{
+  float: right;
+  margin-right: 750px;
+  margin-top: 200px;
 }
